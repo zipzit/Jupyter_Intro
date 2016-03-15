@@ -23,3 +23,5 @@ Links:
  - [Simple  Tutorial, (Randal Olson) ](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
  - [Simple Tutorial #2 (Univ of Chicago) ](https://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Python/NotebookQuickstart/InstantNotebooks.html)
  - [ScreenCast Sample Code](http://ivory.idyll.org/permanent/00_notebook_intro_screencast.ipynb)
+ - Jupyter Documentation -- http://jupyter.readthedocs.org/en/latest/index.html
+ - iPython Documentation -- http://ipython.readthedocs.org/en/stable/
