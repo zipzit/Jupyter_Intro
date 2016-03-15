@@ -23,13 +23,14 @@ Main features of the web application
 
 Links:
  - Home Page -- http://jupyter.org/
- - Sample / Demo --  https://try.jupyter.org/
+ - ** Sample / Demo --  https://try.jupyter.org/
  - Github Repository -- https://github.com/jupyter
  - [Beginner's Guide](https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/)
  - [Simple  Tutorial, (Randal Olson) ](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
  - [Simple Tutorial #2 (Univ of Chicago) ](https://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Python/NotebookQuickstart/InstantNotebooks.html)
- - [Sound Analysis with the Fourier Transform by Caleb Madrigal](https://github.com/calebmadrigal/FourierTalkOSCON)
+ - ** [Sound Analysis with the Fourier Transform by Caleb Madrigal](https://github.com/calebmadrigal/FourierTalkOSCON)
  - [Rendering ipynb files on Github](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
+ - ** [XKCD Cartoon Plots](https://nbviewer.jupyter.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb)
  - [A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
  - [ScreenCast Sample Code](http://ivory.idyll.org/permanent/00_notebook_intro_screencast.ipynb)
  - [Wakari.io example](https://www.wakari.io/sharing/bundle/makmanalp/examples?has_login=False)
