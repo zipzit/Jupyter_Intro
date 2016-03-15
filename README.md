@@ -22,6 +22,8 @@ Links:
  - [Beginner's Guide](https://jupyter-notebook-beginner-guide.readthedocs.org/en/latest/)
  - [Simple  Tutorial, (Randal Olson) ](http://www.randalolson.com/2012/05/12/a-short-demo-on-how-to-use-ipython-notebook-as-a-research-notebook/)
  - [Simple Tutorial #2 (Univ of Chicago) ](https://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Python/NotebookQuickstart/InstantNotebooks.html)
+ - [A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
  - [ScreenCast Sample Code](http://ivory.idyll.org/permanent/00_notebook_intro_screencast.ipynb)
+ - [Wakari.io example](https://www.wakari.io/sharing/bundle/makmanalp/examples?has_login=False)
  - Jupyter Documentation -- http://jupyter.readthedocs.org/en/latest/index.html
  - iPython Documentation -- http://ipython.readthedocs.org/en/stable/
